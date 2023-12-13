@@ -1,0 +1,5 @@
+What is the DOCTYPE Declaration in HTML?
+Solution:
+DOCTYPE is define that it is a document type.
+It specify the version of HTML what we currently used.
+It indicates that it is HTML5 means latest version of HTML.

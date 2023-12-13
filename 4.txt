@@ -1,0 +1,16 @@
+Write a short note on Tag and Element with an example?
+Solution:
+TAG
+An HTML tag is basically a piece of markup language that starts from opening and closing tag.
+Tags usually comes in pairs.
+We represent tags through angle brackets <>{It is opening tag} and </>{This is closing tag}.
+Tags help web browsers how to display the content of webpage written inside the tags.
+Example: 
+<p>This is a paragraph</>
+Here <p> is the opening tag and </p> is the closing tag and inside tags thete is a content written. 
+
+ELEMENT 
+An HTML element is component of an HTML document that tells how we structure our web browser.
+HTML composed of tags and contents.
+Example:
+<p>This is a heading</p>
